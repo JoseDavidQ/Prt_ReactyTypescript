@@ -1,0 +1,51 @@
+id,Nombre,Edad,Departamento,Email
+1,Juan Pérez,26,Marketing,juan.perez@example.com
+2,Laura Jiménez,27,Recursos Humanos,laura.jimenez@example.com
+3,Ricardo Gómez,28,IT,ricardo.gomez@example.com
+4,Sofía Castro,29,Finanzas,sofia.castro@example.com
+5,Mario Ruiz,30,Operaciones,mario.ruiz@example.com
+6,Ana Torres,31,Atención al Cliente,ana.torres@example.com
+7,Luis Molina,32,Ventas,luis.molina@example.com
+8,Carmen Sánchez,33,Marketing,carmen.sanchez@example.com
+9,Carlos López,34,Recursos Humanos,carlos.lopez@example.com
+10,Irene García,35,IT,irene.garcia@example.com
+11,Pedro Hernández,36,Finanzas,pedro.hernandez@example.com
+12,Lucía Fernández,37,Operaciones,lucia.fernandez@example.com
+13,Javier Martínez,38,Atención al Cliente,javier.martinez@example.com
+14,Elena Gómez,39,Ventas,elena.gomez@example.com
+15,Diego Torres,40,Marketing,diego.torres@example.com
+16,Marta Rodríguez,41,Recursos Humanos,marta.rodriguez@example.com
+17,Andrés Navarro,42,IT,andres.navarro@example.com
+18,Patricia Vargas,43,Finanzas,patricia.vargas@example.com
+19,Santiago Ortega,44,Operaciones,santiago.ortega@example.com
+20,Beatriz Herrera,45,Atención al Cliente,beatriz.herrera@example.com
+21,Fernando Cruz,46,Ventas,fernando.cruz@example.com
+22,Paula Moreno,47,Marketing,paula.moreno@example.com
+23,Adrián López,48,Recursos Humanos,adrian.lopez@example.com
+24,Isabel Sánchez,49,IT,isabel.sanchez@example.com
+25,Manuel Romero,25,Finanzas,manuel.romero@example.com
+26,Nuria Blanco,26,Operaciones,nuria.blanco@example.com
+27,Raúl Delgado,27,Atención al Cliente,raul.delgado@example.com
+28,Verónica Ramos,28,Ventas,veronica.ramos@example.com
+29,Alberto Morales,29,Marketing,alberto.morales@example.com
+30,Clara Soto,30,Recursos Humanos,clara.soto@example.com
+31,Héctor Cordero,31,IT,hector.cordero@example.com
+32,Cristina Peña,32,Finanzas,cristina.peña@example.com
+33,Pablo Márquez,33,Operaciones,pablo.marquez@example.com
+34,Rosa Álvarez,34,Atención al Cliente,rosa.alvarez@example.com
+35,Óscar Medina,35,Ventas,oscar.medina@example.com
+36,Silvia Campos,36,Marketing,silvia.campos@example.com
+37,Tomás Herrera,37,Recursos Humanos,tomas.herrera@example.com
+38,Natalia Díaz,38,IT,natalia.diaz@example.com
+39,David Castro,39,Finanzas,david.castro@example.com
+40,Eva Gil,40,Operaciones,eva.gil@example.com
+41,Álvaro Martín,41,Atención al Cliente,alvaro.martin@example.com
+42,Marina Reyes,42,Ventas,marina.reyes@example.com
+43,Gonzalo Rubio,43,Marketing,gonzalo.rubio@example.com
+44,Inés Torres,44,Recursos Humanos,ines.torres@example.com
+45,Francisco Ortega,45,IT,francisco.ortega@example.com
+46,Teresa Rivas,46,Finanzas,teresa.rivas@example.com
+47,Rubén Paredes,47,Operaciones,ruben.paredes@example.com
+48,Lorena Gutiérrez,48,Atención al Cliente,lorena.gutierrez@example.com
+49,Daniel Núñez,49,Ventas,daniel.nuñez@example.com
+50,Sonia Cabrera,25,Marketing,sonia.cabrera@example.com
